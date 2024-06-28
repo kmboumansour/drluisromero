@@ -615,7 +615,7 @@ body.admin-bar .mediz-fixed-navigation.mediz-style-slide{ margin-top: 32px; }
 .mediz-animate-fixed-navigation.mediz-header-style-boxed.mediz-style-splitted-menu .mediz-navigation .sf-menu > li > a{ padding-top: 0px; }
 
 /* page title */
-.mediz-page-title-wrap{ background-image: url('../images/page-title-background.jpg'); 
+.mediz-page-title-wrap{ background-image: url('https://i.ibb.co/sQ3CVM9/lromero1.png'); 
 	background-position: center; background-size: cover; position: relative; overflow: hidden; clear: both; }
 .mediz-page-title-wrap .mediz-page-title-overlay{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; }
 .mediz-page-title-wrap .mediz-page-title-top-gradient{ position: absolute; top: 0px; right: 0px;left: 0px; }
