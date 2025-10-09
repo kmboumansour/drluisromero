@@ -1,0 +1,75 @@
+.btnSeccion1{
+    background-color: transparent !important;
+    border: none !important;
+    color: #3B3931 !important;
+    font-family: "Montserrat-Bold" !important;
+    font-size: 0.9rem !important;
+    text-transform: none !important;
+}
+
+.btnSeccion1:hover{
+    transition: all 0.3s ease-in-out !important;
+    transform: scale(1.2) !important;
+    -webkit-transform: scale(1.2) !important;
+    -moz-transform: scale(1.2) !important;
+    -ms-transform: scale(1.2) !important;
+    -o-transform: scale(1.2) !important;
+}
+
+
+.btnContacto{
+    background-color: #133579 !important;
+    border: none !important;
+    color: #fff !important;
+    font-family: "Montserrat-Bold" !important;
+    text-transform: none !important;
+    font-size: 0.9rem !important;
+    padding: 0% 3% !important;
+    border-radius: 20px !important;
+}
+
+.btnContacto:hover{
+    opacity: 0.8 !important;
+}
+
+.tituloSeccion1{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 2.5rem !important;
+    color: #fff !important;
+}
+
+.subtituloSeccion1{
+    font-family: "Montserrat-Regular" !important;
+    font-size: 1.25rem !important;
+    color: #fff !important;
+}
+
+.listaSeccion1{
+    list-style: disc !important;
+    padding: 0% 0% 0% 3% !important;
+    margin: 0% !important;
+    line-height: 1.5 !important;
+}
+
+.itemListaSeccion1{
+    font-family: "Montserrat-Regular" !important;
+    font-size: 1.2rem !important;
+    color: #fff !important;
+}
+
+.btnAgendar{
+    background-color: #ffffff !important;
+    border: none !important;
+    color: #3B3931 !important;
+    font-family: "Montserrat-Bold" !important;
+    text-transform: none !important;
+    font-size: 1rem !important;
+    padding: 0.5% 3% !important;
+    border-radius: 20px !important;
+    width: 35% !important;
+}
+
+.btnAgendar:hover{
+    background-color: #3B3931 !important;
+    color: #ffffff !important;
+}

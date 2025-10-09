@@ -1,0 +1,17 @@
+{
+    "en": {
+      "type" : "en",
+      "buttonText" : "ES"
+    
+     
+     
+    
+  },
+
+    "es": {
+      "type" : "es",
+      "buttonText" : "ENG"
+   
+  
+    }
+  }

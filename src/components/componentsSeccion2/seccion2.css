@@ -1,0 +1,40 @@
+.titleSeccion2{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 0.9rem !important;
+    color: #133579 !important;
+    text-transform: uppercase !important;
+}
+
+.textSeccion2{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 2rem !important;
+    color: #3B3931 !important;
+    text-transform: uppercase !important;
+}
+.text2{
+    font-family: "Montserrat-Regular" !important;
+    font-size: 0.9rem !important;
+    color: #3B3931 !important;
+}
+.listSeccion2{
+    list-style: disc !important;
+    padding: 0% 3% !important;
+    margin: 0% !important;
+}
+.btnSeccion2{
+    font-family: "Montserrat-Regular" !important;
+    font-size: 0.9rem !important;
+    color: #fff !important;
+    background-color: #133579 !important;
+    border: none !important;
+    border-radius: 20px !important;
+    padding: 0% 3% !important;
+    text-transform: none !important;
+    font-size: 0.9rem !important;
+    width: 30% !important;
+
+}
+.btnSeccion2:hover{
+    background-color: #13357986 !important;
+    color: #fff !important;
+}
